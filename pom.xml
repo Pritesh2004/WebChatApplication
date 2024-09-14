@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.chat</groupId>
-	<artifactId>demo-chatApp</artifactId>
+	<artifactId>WebChatApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo-chatApp</name>
-	<description>Demo project to create Chat app using websocket</description>
+	<description>Project to create Chat app using websocket</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
